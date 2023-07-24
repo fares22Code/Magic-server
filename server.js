@@ -26,7 +26,7 @@ const connect = async () => {
   }
 };
 
-const allowedOrigins = ["http://localhost:5173", "https://Magic.onrender.com"];
+const allowedOrigins = ["http://localhost:5173", "https://magic-sfuo.onrender.com"];
 
 app.use(
   cors({
